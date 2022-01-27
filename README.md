@@ -1,0 +1,1 @@
+I will use Python loops to format our output by attempting to draw a geometric shape composed of asterisks.
